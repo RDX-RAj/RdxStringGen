@@ -5,11 +5,12 @@ from config import SUPPORT_CHAT
 
 keyboard = InlineKeyboardMarkup(
     [
-        [InlineKeyboardButton(text="ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ", callback_data="gensession")],
+        [InlineKeyboardButton(text="˹ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ˼", callback_data="gensession")],
         [
-            InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url=SUPPORT_CHAT),
+            InlineKeyboardButton(text="˹sᴜᴘᴘ๏ꝛᴛ˼", url="https://t.me/+RObRa7kXPIJmMjU1"),
+        [   InlineKeyboardButton(text="˹ᴜᴘᴅᴀᴛє˼", url="https://t.me/+m4oVCt2zFhYyMTdl"),][
             InlineKeyboardButton(
-                text="sᴏᴜʀᴄᴇ", url="https://github.com/RDX-RAj/RdxStringGen"
+                text="˹๏ᴡɴєꝛ˼", user_id="1777270311"),
             ),
         ],
     ]
@@ -18,13 +19,13 @@ keyboard = InlineKeyboardMarkup(
 gen_key = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="ᴩʏʀᴏɢʀᴀᴍ v1", callback_data="pyrogram1"),
-            InlineKeyboardButton(text="ᴩʏʀᴏɢʀᴀᴍ v2", callback_data="pyrogram"),
+            InlineKeyboardButton(text="˹ᴩʏʀᴏɢʀᴀᴍ v1˼", callback_data="pyrogram1"),
+            InlineKeyboardButton(text="˹ᴩʏʀᴏɢʀᴀᴍ v2˼", callback_data="pyrogram"),
         ],
-        [InlineKeyboardButton(text="ᴛᴇʟᴇᴛʜᴏɴ", callback_data="telethon")],
+        [InlineKeyboardButton(text="˹ᴛᴇʟᴇᴛʜᴏɴ˼", callback_data="telethon")],
     ]
 )
 
 retry_key = InlineKeyboardMarkup(
-    [[InlineKeyboardButton(text="ᴛʀʏ ᴀɢᴀɪɴ", callback_data="gensession")]]
+    [[InlineKeyboardButton(text="˹ᴛʀʏ ᴀɢᴀɪɴ˼", callback_data="gensession")]]
 )
