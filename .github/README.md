@@ -65,7 +65,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 Press `Ctrl+b` and then `d`
 
 <p align="center">
-  <img src="https://github.com/RDX-RAj/RDXSOURCE/blob/main/RDX/Rdx.String">
+  <img src="https://te.legra.ph/file/fa5b692e4ddb87559db17.jpg">
 </p>
 
 </details>
